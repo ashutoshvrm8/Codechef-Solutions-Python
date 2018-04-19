@@ -5,7 +5,7 @@ Created on Wed Apr 18 16:33:08 2018
 @author: aver14
 """
 
-t = int(raw_input());
+t = int(raw_input())
 
 while t != 0:
     inp = map(int,raw_input().split())
